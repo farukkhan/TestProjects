@@ -1,0 +1,8 @@
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\bin\TestInterfaceOfVariousFeatures.dll
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\bin\TestInterfaceOfVariousFeatures.pdb
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\bin\CustomControlSet.dll
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\bin\CustomControlSet.pdb
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\bin\CustomControlSet.xml
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\obj\Release\ResolveAssemblyReference.cache
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\obj\Release\TestInterfaceOfVariousFeatures.dll
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestInterfaceOfVariousFeatures\obj\Release\TestInterfaceOfVariousFeatures.pdb

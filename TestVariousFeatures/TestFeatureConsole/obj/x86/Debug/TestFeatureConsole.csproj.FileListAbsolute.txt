@@ -1,0 +1,15 @@
+E:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\bin\Debug\TestFeatureConsole.exe
+E:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\bin\Debug\TestFeatureConsole.pdb
+E:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\TestFeatureConsole.exe
+E:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\TestFeatureConsole.pdb
+D:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\TestFeatureConsole.exe
+D:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\TestFeatureConsole.pdb
+D:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\bin\Debug\TestFeatureConsole.exe
+D:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\bin\Debug\TestFeatureConsole.pdb
+D:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Learning Projects\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\bin\Debug\TestFeatureConsole.exe
+E:\Projects\Learning Projects\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\bin\Debug\TestFeatureConsole.pdb
+E:\Projects\Learning Projects\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Projects\Learning Projects\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\TestFeatureConsole.exe
+E:\Projects\Learning Projects\Developments\TestProjects\TestVariousFeatures\TestFeatureConsole\obj\x86\Debug\TestFeatureConsole.pdb

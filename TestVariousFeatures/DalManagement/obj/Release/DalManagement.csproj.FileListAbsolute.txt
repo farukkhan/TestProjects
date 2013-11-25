@@ -1,0 +1,6 @@
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\DalManagement\bin\Release\DalManagement.dll.config
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\DalManagement\bin\Release\DalManagement.dll
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\DalManagement\bin\Release\DalManagement.pdb
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\DalManagement\obj\Release\ResolveAssemblyReference.cache
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\DalManagement\obj\Release\DalManagement.dll
+F:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\DalManagement\obj\Release\DalManagement.pdb

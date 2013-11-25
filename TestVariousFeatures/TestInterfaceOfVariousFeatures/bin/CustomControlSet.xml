@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomControlSet</name>
+    </assembly>
+    <members>
+        <member name="T:CustomControlSet.CalculationControl">
+             <summary>
+            
+             </summary>
+        </member>
+        <member name="M:CustomControlSet.CalculationControl.#ctor">
+             <summary>
+             This is the default constructor of the CalculationControl
+             </summary>
+            <remarks></remarks>
+        </member>
+        <member name="M:CustomControlSet.CalculationControl.CreateChildControls">
+            <summary>
+            This method adds all the child control to the controls collection.
+            </summary>
+        </member>
+        <member name="M:CustomControlSet.CalculationControl.btnCalculation_Click(System.Object,System.EventArgs)">
+            <summary>
+            This methos handles the btnCalculation event.
+            </summary>
+            <param name="sender">the sender</param>
+            <param name="e">contains the additional information for the event</param>
+        </member>
+        <member name="M:CustomControlSet.CalculationControl.RenderContents(System.Web.UI.HtmlTextWriter)">
+            <summary>
+            Creates the html output for the control.
+            </summary>
+            <param name="output">Html text writer</param>
+        </member>
+        <member name="M:CustomControlSet.CalculationControl.OnPreRender(System.EventArgs)">
+            <summary>
+            The on prerender event handler of the custom control
+            </summary>
+            <param name="e">the event arg parameter contains 
+            additional informtion for the event</param>
+        </member>
+        <member name="P:CustomControlSet.CalculationControl.Result">
+            <summary>
+            Gets and sets The result of the calculation
+            </summary>
+        </member>
+        <member name="P:CustomControlSet.CalculationControl.FirstNumber">
+            <summary>
+            The first number to operate
+            </summary>
+        </member>
+        <member name="P:CustomControlSet.CalculationControl.SecondNumber">
+            <summary>
+            The second number to operate
+            </summary>
+        </member>
+        <member name="P:CustomControlSet.CalculationControl.OperationType">
+            <summary>
+            Operation type
+            </summary>
+        </member>
+        <member name="P:CustomControlSet.CalculationControl.onclickcalculate">
+            <summary>
+            Gets or sets the client side event to bind
+            </summary>
+        </member>
+    </members>
+</doc>

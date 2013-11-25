@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="E80F481D-6E8F-4590-82D5-3579D83C7853" ModuleId="TestInterfaceOfVariousFeatures" />
+  <Module PersistentId="7DC6E8C5-45AF-41E4-B3B8-0A07E4FF6772" ModuleId="CustomControlSet" />
+  <Module PersistentId="942A6AD9-C179-4933-9D73-AF27E3412BF8" ModuleId="DalManagement" />
+</Modules>

@@ -1,0 +1,1095 @@
+Building documentation...
+Memory before build: 1412488
+Initializing...
+Merging XML documentation...
+Cached doc : testinterfaceofvariousfeatures.xml (0.016 sec.)
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.ScriptManager1':
+<summary>
+            ScriptManager1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.updatepanel':
+<summary>
+            updatepanel control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.calculatecontrol':
+<summary>
+            calculatecontrol control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.btnGetWSValue':
+<summary>
+            btnGetWSValue control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.updatepanel1':
+<summary>
+            updatepanel1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.btnCalculateByPostBack':
+<summary>
+            btnCalculateByPostBack control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.tdPostBackResult':
+<summary>
+            tdPostBackResult control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures._default.txtResultByPostback':
+<summary>
+            txtResultByPostback control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.CSSTestPage.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.TestPage.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.ScriptManager1':
+<summary>
+            ScriptManager1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.lblCustomerId':
+<summary>
+            lblCustomerId control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.txtCustomerId':
+<summary>
+            txtCustomerId control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.lblCustomerName':
+<summary>
+            lblCustomerName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.txtCustomerName':
+<summary>
+            txtCustomerName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.btnGetCustomer':
+<summary>
+            btnGetCustomer control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.ScriptManager1':
+<summary>
+            ScriptManager1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.lblCustomerId':
+<summary>
+            lblCustomerId control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.txtCustomerId':
+<summary>
+            txtCustomerId control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.lblCustomerName':
+<summary>
+            lblCustomerName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.txtCustomerName':
+<summary>
+            txtCustomerName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.btnGetCustomer':
+<summary>
+            btnGetCustomer control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JQueryTestPage.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JQueryTestPage.btnClickMe':
+<summary>
+            btnClickMe control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.Head1':
+<summary>
+            Head1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.ScriptManager1':
+<summary>
+            ScriptManager1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepanel':
+<summary>
+            updatepanel control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.calculatecontrol':
+<summary>
+            calculatecontrol control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepanel1':
+<summary>
+            updatepanel1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnCalculateByPostBack':
+<summary>
+            btnCalculateByPostBack control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.tdPostBackResult':
+<summary>
+            tdPostBackResult control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.txtResultByPostback':
+<summary>
+            txtResultByPostback control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepaneltest':
+<summary>
+            updatepaneltest control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.txtTest':
+<summary>
+            txtTest control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnGetName':
+<summary>
+            btnGetName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AccessMOdifierTest.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AccessMOdifierTest.TextBox1':
+<summary>
+            TextBox1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.AccessMOdifierTest.Button1':
+<summary>
+            Button1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]T:TestInterfaceOfVariousFeatures.WebService':
+<summary>
+            Summary description for WebService
+            </summary>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtItem1':
+<summary>
+            txtItem1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtItem2':
+<summary>
+            txtItem2 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.TextBox1':
+<summary>
+            TextBox1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.Head1':
+<summary>
+            Head1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.lblErrorSummaryHeader':
+<summary>
+            lblErrorSummaryHeader control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv2FirstName':
+<summary>
+            rv2FirstName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv2LastName':
+<summary>
+            rv2LastName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv2Email':
+<summary>
+            rv2Email control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.txtFirstName':
+<summary>
+            txtFirstName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv1FirstName':
+<summary>
+            rv1FirstName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.txtLastName':
+<summary>
+            txtLastName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv1LastName':
+<summary>
+            rv1LastName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.txtEmail':
+<summary>
+            txtEmail control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv1Email':
+<summary>
+            rv1Email control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.PlayWithValidation.Button1':
+<summary>
+            Button1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.TestObjectRefference.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.TestObjectRefference.txtOldObjectName':
+<summary>
+            txtOldObjectName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.TestObjectRefference.txtNewObjectName':
+<summary>
+            txtNewObjectName control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.TestObjectRefference.btnGetTheValues':
+<summary>
+            btnGetTheValues control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]F:TestInterfaceOfVariousFeatures.JqueryTestWithData.form1':
+<summary>
+            form1 control.
+            </summary>
+<remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+TRACE: processing comment '[TestInterfaceOfVariousFeatures]T:TestInterfaceOfVariousFeatures.WebService1':
+<summary>
+            Summary description for WebService1
+            </summary>
+Cached doc : dalmanagement.xml (0 sec.)
+Cached doc : customcontrolset.xml (0 sec.)
+TRACE: processing comment '[CustomControlSet]T:CustomControlSet.CalculationControl':
+<summary></summary>
+TRACE: processing comment '[CustomControlSet]M:CustomControlSet.CalculationControl.#ctor':
+<summary>
+             This is the default constructor of the CalculationControl
+             </summary>
+<remarks></remarks>
+TRACE: processing comment '[CustomControlSet]M:CustomControlSet.CalculationControl.CreateChildControls':
+<summary>
+            This method adds all the child control to the controls collection.
+            </summary>
+TRACE: processing comment '[CustomControlSet]M:CustomControlSet.CalculationControl.btnCalculation_Click(System.Object,System.EventArgs)':
+<summary>
+            This methos handles the btnCalculation event.
+            </summary>
+<param name="sender">the sender</param>
+<param name="e">contains the additional information for the event</param>
+TRACE: processing comment '[CustomControlSet]M:CustomControlSet.CalculationControl.RenderContents(System.Web.UI.HtmlTextWriter)':
+<summary>
+            Creates the html output for the control.
+            </summary>
+<param name="output">Html text writer</param>
+TRACE: processing comment '[CustomControlSet]M:CustomControlSet.CalculationControl.OnPreRender(System.EventArgs)':
+<summary>
+            The on prerender event handler of the custom control
+            </summary>
+<param name="e">the event arg parameter contains 
+            additional informtion for the event</param>
+TRACE: processing comment '[CustomControlSet]P:CustomControlSet.CalculationControl.Result':
+<summary>
+            Gets and sets The result of the calculation
+            </summary>
+TRACE: processing comment '[CustomControlSet]P:CustomControlSet.CalculationControl.FirstNumber':
+<summary>
+            The first number to operate
+            </summary>
+TRACE: processing comment '[CustomControlSet]P:CustomControlSet.CalculationControl.SecondNumber':
+<summary>
+            The second number to operate
+            </summary>
+TRACE: processing comment '[CustomControlSet]P:CustomControlSet.CalculationControl.OperationType':
+<summary>
+            Operation type
+            </summary>
+TRACE: processing comment '[CustomControlSet]P:CustomControlSet.CalculationControl.onclickcalculate':
+<summary>
+            Gets or sets the client side event to bind
+            </summary>
+Memory before making xml: 3999048
+Writing namespace TestInterfaceOfVariousFeatures...
+XML Doc not found for System.Web, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+XML Doc not found for mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+XML Doc not found for System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+XML Doc not found for System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Wrote 15 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 0 delegates.
+Wrote 0 enumerations.
+Writing namespace TestInterfaceOfVariousFeatures.Classes...
+Wrote 2 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 0 delegates.
+Wrote 0 enumerations.
+Completed TestInterfaceOfVariousFeatures, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+4.063 sec.
+Writing namespace DalManagement...
+XML Doc not found for System.Data.Linq, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089
+Wrote 2 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 0 delegates.
+Wrote 0 enumerations.
+Discarding namespace DalManagement.Properties because it does not contain any documented types.
+Completed DalManagement, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+0.047 sec.
+Writing namespace CustomControlSet...
+Wrote 5 classes.
+Wrote 0 interfaces.
+Wrote 0 structures.
+Wrote 0 delegates.
+Wrote 1 enumerations.
+Completed CustomControlSet, Version=1.0.1.1, Culture=neutral, PublicKeyToken=null
+0.297 sec.
+MakeXML : 4.547 sec.
+MakeXML : 4.547 sec.
+Memory after making xml: 3312200
+Loading XSLT files...
+XSLT probing directories 3
+file://C:\Program Files (x86)\NDoc3\bin\Documenter\Msdn\xslt
+file://C:\Documenter\Msdn\xslt
+file://C:\src\Documenter\Msdn\xslt
+    Compiling assembly.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.assembly.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.common.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.filenames.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.global_arguments.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.syntax.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.vb-syntax.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.tags.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.blank.xsltCompiling namespace.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.namespace.xsltCompiling namespacehierarchy.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.namespacehierarchy.xsltCompiling type.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.type.xsltCompiling typehierarchy.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.typehierarchy.xsltCompiling allmembers.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.allmembers.xsltNo external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.memberscommon.xsltCompiling individualmembers.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.individualmembers.xsltCompiling event.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.event.xsltCompiling member.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.member.xsltCompiling memberoverload.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.memberoverload.xsltCompiling property.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.property.xsltCompiling field.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.field.xsltCompiling htmlcontents.xslt
+    No external found - using embedded assembly:[NDoc3.Documenter.Msdn]NDoc3.Documenter.Msdn.xslt.htmlcontents.xsltGenerating HTML pages...
+~CustomControlSet.html
+0 msec.
+~CustomControlSet~Hierarchy.html
+15 msec.
+CustomControlSet~CustomControlSet.CalculationControl.html
+16 msec.
+CustomControlSet~CustomControlSet.CalculationControl~Members.html
+78 msec.
+CustomControlSet~CustomControlSet.CalculationControl.~ctor.html
+16 msec.
+CustomControlSet~CustomControlSet.CalculationControl~Properties.html
+15 msec.
+CustomControlSet~CustomControlSet.CalculationControl.FirstNumber.html
+16 msec.
+CustomControlSet~CustomControlSet.CalculationControl.onclickcalculate.html
+0 msec.
+CustomControlSet~CustomControlSet.CalculationControl.OperationType.html
+15 msec.
+CustomControlSet~CustomControlSet.CalculationControl.Result.html
+0 msec.
+CustomControlSet~CustomControlSet.CalculationControl.SecondNumber.html
+16 msec.
+CustomControlSet~CustomControlSet.CalculationControl~Methods.html
+63 msec.
+CustomControlSet~CustomControlSet.CalculationControl.btnCalculation_Click.html
+15 msec.
+CustomControlSet~CustomControlSet.CalculationControl.CreateChildControls.html
+0 msec.
+CustomControlSet~CustomControlSet.CalculationControl.OnPreRender.html
+16 msec.
+CustomControlSet~CustomControlSet.CalculationControl.RenderContents.html
+15 msec.
+CustomControlSet~CustomControlSet.CComponent.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponent~Members.html
+16 msec.
+CustomControlSet~CustomControlSet.CComponent.~ctor.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponentType.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponentType~Members.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponentType.~ctor.html
+15 msec.
+CustomControlSet~CustomControlSet.CComponnetUser.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponnetUser~Members.html
+16 msec.
+CustomControlSet~CustomControlSet.CComponnetUser.~ctor.html
+16 msec.
+CustomControlSet~CustomControlSet.CComponnetUser~Properties.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponnetUser.Component.html
+15 msec.
+CustomControlSet~CustomControlSet.CComponnetUser.ComponentType.html
+0 msec.
+CustomControlSet~CustomControlSet.CComponnetUser.UserName.html
+16 msec.
+CustomControlSet~CustomControlSet.EOperationType.html
+0 msec.
+CustomControlSet~CustomControlSet.ServerControl1.html
+15 msec.
+CustomControlSet~CustomControlSet.ServerControl1~Members.html
+63 msec.
+CustomControlSet~CustomControlSet.ServerControl1.~ctor.html
+16 msec.
+CustomControlSet~CustomControlSet.ServerControl1~Properties.html
+15 msec.
+CustomControlSet~CustomControlSet.ServerControl1.Text.html
+16 msec.
+CustomControlSet~CustomControlSet.ServerControl1~Methods.html
+31 msec.
+CustomControlSet~CustomControlSet.ServerControl1.RenderContents.html
+16 msec.
+~DalManagement.html
+0 msec.
+~DalManagement~Hierarchy.html
+15 msec.
+DalManagement~DalManagement.Class1.html
+0 msec.
+DalManagement~DalManagement.Class1~Members.html
+0 msec.
+DalManagement~DalManagement.Class1.~ctor.html
+16 msec.
+DalManagement~DalManagement.DataAccessDataContext.html
+16 msec.
+DalManagement~DalManagement.DataAccessDataContext~Members.html
+15 msec.
+DalManagement~DalManagement.DataAccessDataContext~Constructors.html
+16 msec.
+DalManagement~DalManagement.DataAccessDataContext.~ctor1.html
+0 msec.
+DalManagement~DalManagement.DataAccessDataContext.~ctor2.html
+15 msec.
+DalManagement~DalManagement.DataAccessDataContext.~ctor3.html
+0 msec.
+DalManagement~DalManagement.DataAccessDataContext.~ctor4.html
+16 msec.
+~TestInterfaceOfVariousFeatures.html
+0 msec.
+~TestInterfaceOfVariousFeatures~Hierarchy.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.~ctor.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default~Fields.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.btnCalculateByPostBack.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.btnGetWSValue.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.calculatecontrol.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.form1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.ScriptManager1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.tdPostBackResult.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.txtResultByPostback.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.updatepanel.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.updatepanel1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default~Methods.html
+47 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.btnCalculateByPostBack_Click.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures._default.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.html
+32 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest~Members.html
+93 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.Button1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.form1.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.TextBox1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest~Methods.html
+47 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.Button1_Click.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AccessMOdifierTest.Page_Load.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.~ctor.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes~Fields.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.btnGetCustomer.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.form1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.lblCustomerId.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.lblCustomerName.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.ScriptManager1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.txtCustomerId.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.txtCustomerName.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes~Methods.html
+63 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.btnGetCustomer_Click.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods~Members.html
+110 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.~ctor.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.btnGetCustomer.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.form1.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.lblCustomerId.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.lblCustomerName.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.ScriptManager1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.txtCustomerId.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.txtCustomerName.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods~Methods.html
+46 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.GetCustomer.html
+32 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.AjaxWSPageMethods.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CCustomer.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CCustomer~Members.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CCustomer.~ctor.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CCustomer~Properties.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CCustomer.Id.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CCustomer.Name.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage.html
+32 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage~Members.html
+93 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage.form1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage~Methods.html
+62 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.CSSTestPage.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.form1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.TextBox1.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtItem1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtItem2.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery~Methods.html
+47 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JavascriptWithJquery.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage~Fields.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage.btnClickMe.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage.form1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage~Methods.html
+47 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JQueryTestPage.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData~Fields.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData.form1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData~Methods.html
+47 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.JqueryTestWithData.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.~ctor.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.Button1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.form1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.Head1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.lblErrorSummaryHeader.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.rv1Email.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.rv1FirstName.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.rv1LastName.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.rv2Email.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.rv2FirstName.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.rv2LastName.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.txtEmail.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.txtFirstName.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.txtLastName.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation~Methods.html
+47 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.PlayWithValidation.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.~ctor.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.btnGetTheValues.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.form1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.txtNewObjectName.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.txtOldObjectName.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference~Methods.html
+63 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.btnGetTheValues_Click.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestObjectRefference.Page_Load.html
+32 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage~Members.html
+94 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage.~ctor.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage~Fields.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage.form1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage~Methods.html
+62 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.TestPage.Page_Load.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel~Members.html
+110 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.~ctor.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel~Fields.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnCalculateByPostBack.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnGetName.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.calculatecontrol.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.form1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.Head1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.ScriptManager1.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.tdPostBackResult.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.txtResultByPostback.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.txtTest.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepanel.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepanel1.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepaneltest.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel~Methods.html
+62 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnCalculateByPostBack_Click.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnGetName_Click.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.Page_Load.html
+31 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService~Members.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService.~ctor.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService~Methods.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService.GetCustomer.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService.HelloWorld.html
+32 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService1.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService1~Members.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService1.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService1~Methods.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.WebService1.HelloWorld.html
+16 msec.
+~TestInterfaceOfVariousFeatures.Classes.html
+0 msec.
+~TestInterfaceOfVariousFeatures.Classes~Hierarchy.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.Classes.CBase.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.Classes.CBase~Members.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.Classes.CBase.~ctor.html
+16 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.Classes.CChild.html
+15 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.Classes.CChild~Members.html
+0 msec.
+TestInterfaceOfVariousFeatures~TestInterfaceOfVariousFeatures.Classes.CChild.~ctor.html
+32 msec.
+Making Html: 4.625 sec.
+Generating HTML index file...
+transform the HHC contents file into html
+15 msec.
+Compiling HTML Help file...
+Compiling Html Help file
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling f:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\doc\ndoc3_msdn_temp\TestVariousFeatures Project Documentation.chm
+
+
+Compile time: 0 minutes, 4 seconds
+436	Topics
+1,331	Local links
+4,941	Internet links
+7	Graphics
+
+
+Created f:\D Drive\Personal\Developments\TestProjects\TestVariousFeatures\doc\ndoc3_msdn_temp\TestVariousFeatures Project Documentation.chm, 215,986 bytes
+Compression decreased file by 1,717,119 bytes.
+
+Html Help compile complete
+Done.

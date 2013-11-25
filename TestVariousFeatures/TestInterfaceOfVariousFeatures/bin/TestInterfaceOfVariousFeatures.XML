@@ -1,0 +1,954 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TestInterfaceOfVariousFeatures</name>
+    </assembly>
+    <members>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.UpdatePanel3">
+            <summary>
+            UpdatePanel3 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.Label3">
+            <summary>
+            Label3 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.TextBox2">
+            <summary>
+            TextBox2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.Label1">
+            <summary>
+            Label1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.UpdatePanel1">
+            <summary>
+            UpdatePanel1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.lblName">
+            <summary>
+            lblName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtBasicName">
+            <summary>
+            txtBasicName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.btnSubmitBasic">
+            <summary>
+            btnSubmitBasic control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.Label2">
+            <summary>
+            Label2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.UpdatePanel2">
+            <summary>
+            UpdatePanel2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.lblBusinessName">
+            <summary>
+            lblBusinessName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtBusinessName">
+            <summary>
+            txtBusinessName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.btnSubmitBusiness">
+            <summary>
+            btnSubmitBusiness control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.lblBiColoredtext">
+            <summary>
+            lblBiColoredtext control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtItem1">
+            <summary>
+            txtItem1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.txtItem2">
+            <summary>
+            txtItem2 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JavascriptWithJquery.TextBox1">
+            <summary>
+            TextBox1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UpdatePanelTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UpdatePanelTest.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UpdatePanelTest.UpdatePanel1">
+            <summary>
+            UpdatePanel1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UpdatePanelTest.lblName">
+            <summary>
+            lblName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UpdatePanelTest.txtBasicName">
+            <summary>
+            txtBasicName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UpdatePanelTest.btnSubmitBasic">
+            <summary>
+            btnSubmitBasic control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestObjectRefference.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestObjectRefference.txtOldObjectName">
+            <summary>
+            txtOldObjectName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestObjectRefference.txtNewObjectName">
+            <summary>
+            txtNewObjectName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestObjectRefference.btnGetTheValues">
+            <summary>
+            btnGetTheValues control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.RegularExpressionTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.RegularExpressionTest.txtText">
+            <summary>
+            txtText control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.RegularExpressionTest.btnExtract">
+            <summary>
+            btnExtract control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.RegularExpressionTest.txtMatch">
+            <summary>
+            txtMatch control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.RegularExpressionTest.btnInvokeService">
+            <summary>
+            btnInvokeService control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.updatepanel">
+            <summary>
+            updatepanel control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.calculatecontrol">
+            <summary>
+            calculatecontrol control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.btnGetWSValue">
+            <summary>
+            btnGetWSValue control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.updatepanel1">
+            <summary>
+            updatepanel1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.btnCalculateByPostBack">
+            <summary>
+            btnCalculateByPostBack control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.tdPostBackResult">
+            <summary>
+            tdPostBackResult control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures._default.txtResultByPostback">
+            <summary>
+            txtResultByPostback control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestFor.DynamicRadioButton.divRbtnLst">
+            <summary>
+            divRbtnLst control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestFor.DynamicRadioButton.btnSubmit">
+            <summary>
+            btnSubmit control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JQueryTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JQueryTestPage.btnClickMe">
+            <summary>
+            btnClickMe control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.DynamicallyRowAddition.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.DynamicallyRowAddition.FileUpload1">
+            <summary>
+            FileUpload1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.DynamicallyRowAddition.txtInterest">
+            <summary>
+            txtInterest control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.DynamicallyRowAddition.btnInterest">
+            <summary>
+            btnInterest control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.DynamicallyRowAddition.btnLogin">
+            <summary>
+            btnLogin control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.Masters.Default.head">
+            <summary>
+            head control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.Masters.Default.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.Masters.Default.ContentPlaceHolder1">
+            <summary>
+            ContentPlaceHolder1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.Head1">
+            <summary>
+            Head1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.lblErrorSummaryHeader">
+            <summary>
+            lblErrorSummaryHeader control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv2FirstName">
+            <summary>
+            rv2FirstName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv2LastName">
+            <summary>
+            rv2LastName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv2Email">
+            <summary>
+            rv2Email control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.txtFirstName">
+            <summary>
+            txtFirstName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv1FirstName">
+            <summary>
+            rv1FirstName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.txtLastName">
+            <summary>
+            txtLastName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv1LastName">
+            <summary>
+            rv1LastName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.txtEmail">
+            <summary>
+            txtEmail control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.rv1Email">
+            <summary>
+            rv1Email control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.PlayWithValidation.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="T:TestInterfaceOfVariousFeatures.WebService1">
+            <summary>
+            Summary description for WebService1
+            </summary>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.Head1">
+            <summary>
+            Head1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepanel">
+            <summary>
+            updatepanel control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.calculatecontrol">
+            <summary>
+            calculatecontrol control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepanel1">
+            <summary>
+            updatepanel1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnCalculateByPostBack">
+            <summary>
+            btnCalculateByPostBack control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.tdPostBackResult">
+            <summary>
+            tdPostBackResult control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.txtResultByPostback">
+            <summary>
+            txtResultByPostback control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.updatepaneltest">
+            <summary>
+            updatepaneltest control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.txtTest">
+            <summary>
+            txtTest control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.UsingNestedUpdatePanel.btnGetName">
+            <summary>
+            btnGetName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.TestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JqueryTestWithData.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.chkTest">
+            <summary>
+            chkTest control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.lblCustomerId">
+            <summary>
+            lblCustomerId control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.txtCustomerId">
+            <summary>
+            txtCustomerId control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.lblCustomerName">
+            <summary>
+            lblCustomerName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.txtCustomerName">
+            <summary>
+            txtCustomerName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSPageMethods.btnGetCustomer">
+            <summary>
+            btnGetCustomer control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AccessMOdifierTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AccessMOdifierTest.TextBox1">
+            <summary>
+            TextBox1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AccessMOdifierTest.Button1">
+            <summary>
+            Button1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JSONTest.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.JSONTest.btnJSONParse">
+            <summary>
+            btnJSONParse control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.CSSTestPage.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="T:TestInterfaceOfVariousFeatures.WebService">
+            <summary>
+            Summary description for WebService
+            </summary>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.form1">
+            <summary>
+            form1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.ScriptManager1">
+            <summary>
+            ScriptManager1 control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.lblCustomerId">
+            <summary>
+            lblCustomerId control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.txtCustomerId">
+            <summary>
+            txtCustomerId control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.lblCustomerName">
+            <summary>
+            lblCustomerName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.txtCustomerName">
+            <summary>
+            txtCustomerName control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+        <member name="F:TestInterfaceOfVariousFeatures.AjaxWSComplexTypes.btnGetCustomer">
+            <summary>
+            btnGetCustomer control.
+            </summary>
+            <remarks>
+            Auto-generated field.
+            To modify move field declaration from designer file to code-behind file.
+            </remarks>
+        </member>
+    </members>
+</doc>
